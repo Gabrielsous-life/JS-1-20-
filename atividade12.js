@@ -1,0 +1,1 @@
+//12. ( True ) O tipo boolean pode assumir apenas os valores true ou false. 

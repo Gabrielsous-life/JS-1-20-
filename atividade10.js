@@ -1,0 +1,1 @@
+//10. ( False ) null e undefined são exatamente o mesmo tipo de dado em JavaScript. 
